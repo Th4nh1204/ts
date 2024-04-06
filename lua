@@ -24,3 +24,4 @@ Tab:AddSection({
 Tab:AddSection({
 	Name = "SCRIPT DEAD"
 })
+OrionLib:Init()
